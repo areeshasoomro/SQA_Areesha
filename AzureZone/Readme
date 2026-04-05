@@ -1,1 +1,3 @@
-
+Selenium + Python automation script : 
+to run this script use vscode or any enviroment which can run .py files , then first  open terminal and write command  :   pip install selenium webdriver-manager  
+and run this file 
